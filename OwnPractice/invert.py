@@ -50,6 +50,10 @@ def invert_and_save(image):
             # be found.
 
             continue
+            
+        else:
+            
+            break
 
     file_name = image.split('.')[0]
     # Grabs the name of the file to be used in the inverted image's name
