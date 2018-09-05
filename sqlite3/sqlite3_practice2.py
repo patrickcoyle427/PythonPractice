@@ -20,3 +20,5 @@ for p in staff_data:
 
     cursor.execute(sql_command)
 
+connection.commit()
+connection.close()
