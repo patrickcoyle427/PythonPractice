@@ -10,4 +10,5 @@ Week 1 - Introduction to Data Science
 Week 2 - Python and UNIX overview
 
 Week 3 - Jupyter Notebooks and NumPy
- 
+
+Week 4 - Pandas
